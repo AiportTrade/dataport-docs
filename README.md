@@ -1,5 +1,3 @@
-![DataPort Navigator Logo](assets/logo.jpg)
-
 # dataport-docs
 
 Official documentation for DataPort Navigator
