@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.jpg" alt="DataPort Navigator Logo" width="200"/>
+</p>
+
 # dataport-docs
 
 Official documentation for DataPort Navigator
