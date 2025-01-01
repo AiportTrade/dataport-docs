@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="DataPort Navigator Logo" width="200"/>
-</p>
+![DataPort Navigator Logo](assets/logo.jpg)
 
 # dataport-docs
 
@@ -21,6 +19,10 @@ Advanced analytics platform for Virtual Agents ecosystem providing:
 
 Network: Base
 Contract: 0x4225658360C731a2b4c34555E45fea3b4b0181D5
+
+## Documentation
+
+- [Whitepaper](whitepaper.md) - Full technical documentation
 
 ## Links
 
